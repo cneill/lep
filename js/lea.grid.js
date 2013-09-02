@@ -27,7 +27,9 @@ var populate_grid = function (boxes) {
           <a class="learn-more btn btn-primary"><i class="icon-help"></i> Learn more</a>\
           <a class="outbound btn btn-default"><i class="icon-link"></i> Visit their website</a>\
           <div class="mobile-info"><h4>Description</h4>\
-          ' + b.content.text + '<br/><a href="" class="close-info">(Close)</a></div>\
+          ' + b.content.text + '<br/><br />\
+          ' + get_connect_icons(b) + '<br />\
+          <a href="" class="close-info">(Close)</a></div>\
          </div>\
         </div>\
         </div>\
