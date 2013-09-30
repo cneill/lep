@@ -110,13 +110,13 @@ var get_connect_icons = function(b){
     var icons = '';
 
     if (b.connect.fb) {
-        icons += '<a href="http://facebook.com/' + b.connect.fb + '"><i class="icon-facebook"></i></a>'
+        icons += '<a href="http://facebook.com/' + b.connect.fb + '" target="_blank"><i class="icon-facebook"></i></a>'
     }
     if (b.connect.twitter) {
-        icons += '<a href="http://twitter.com/' + b.connect.twitter + '"><i class="icon-twitter"></i></a>'
+        icons += '<a href="http://twitter.com/' + b.connect.twitter + '" target="_blank"><i class="icon-twitter"></i></a>'
     }
     if (b.connect.email) {
-        icons += '<a href="mailto:' + b.connect.email + '"><i class="icon-mail"></i></a>'
+        icons += '<a href="mailto:' + b.connect.email + '" target="_blank"><i class="icon-mail"></i></a>'
     }
 
     if (icons) {
