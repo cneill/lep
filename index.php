@@ -21,7 +21,7 @@ Some rights reserved
     <style>
     <?php
     // PHP LESS COMPILER
-    require('lib/lessphp/lessc.inc.php');
+    require('lib/php/lessphp/lessc.inc.php');
     $l = new lessc;
     try{
         echo $l->compileFile('less/portal.less');    
