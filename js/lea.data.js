@@ -41,6 +41,20 @@ var boxes = [ { "name" : "Longhorn Entrepreneurship Agency"
                   }
               , "category": "univ"
               }
+            , { "name" : "McCombs Entrepreneur-in-Residence, Brett Hurt"
+              , "id"   : "eir"
+              , "content" : 
+                  { "text"  : "Brett Hurt is the 2013-2014 Entrepreneur-in-Residence at the Herb Kelleher Center for Entrepreneurship in McCombs School of Business. He is available to speak with students, and hosts the popular EIR Money Talks Speaker Series with the help of Laura Kilcrease, the previous McCombs EIR.  Brett is the founder of several successful companies, most recently Bazaarvoice, and a partner at the new Venture Capital firm that bears his name, Hurt+Harbach."
+                  }
+              , "connect" : 
+                  {"url"  : "https://www.mccombs.utexas.edu/Centers/Kelleher-Center/Entrepreneur-in-Residence.aspx"
+                  , "fb"      : "McCombsEntrepreneur"
+                  , "twitter" : "McCombsEIR"
+                  , "email"   : "brett.hurt@mccombs.utexas.edu"
+                  , "director": "Brett Hurt"
+                  }
+              , "category": "univ"
+              }
             , { "name" : "Liberal Arts Entrepreneur Course"
               , "id"   : "laec"
               , "content" : 
@@ -182,31 +196,31 @@ var boxes = [ { "name" : "Longhorn Entrepreneurship Agency"
                   }
               , "category": "univ"
               }
-            , { "name" : "McCombs Entrepreneur-in-Residence, Brett Hurt"
-              , "id"   : "eir"
-              , "content" : 
-                  { "text"  : "Brett Hurt is the 2013-2014 Entrepreneur-in-Residence at the Herb Kelleher Center for Entrepreneurship in McCombs School of Business. He is available to speak with students, and hosts the popular EIR Money Talks Speaker Series with the help of Laura Kilcrease, the previous McCombs EIR.  Brett is the founder of several successful companies, most recently Bazaarvoice, and a partner at the new Venture Capital firm that bears his name, Hurt+Harbach."
-                  }
-              , "connect" : 
-                  {"url"  : "https://www.mccombs.utexas.edu/Centers/Kelleher-Center/Entrepreneur-in-Residence.aspx"
-                  , "fb"      : "McCombsEntrepreneur"
-                  , "twitter" : "McCombsEIR"
-                  , "email"   : "brett.hurt@mccombs.utexas.edu"
-                  , "director": "Brett Hurt"
-                  }
-              , "category": "univ"
-              }
             , { "name" : "Bridging Disciplines Programs Emphasizing Entrepreneurship"
               , "id"   : "bdp"
               , "content" : 
                   { "text"  : "The BDP concentrations represent areas of innovative faculty research, teaching, and collaboration at UT Austin. Each program is guided by a cross-college panel of faculty members with research experience related to the BDP topic.<br /><br /><b><a href='http://www.utexas.edu/ugs/bdp/programs/sen' target='_blank'>Social Entrepreneurship &amp; Non-Profits</a></b><br />The Social Entrepreneurship and Non-Profits BDP brings together students who are interested in pursuing a career in the public service sector and expanding their involvement in the community.<br /><b><a href='http://www.utexas.edu/ugs/bdp/programs/ice' target='_blank'>Innovation, Creativity &amp; Entrepreneurship</a></b><br />The Innovation, Creativity and Entrepreneurship BDP teaches students about the entrepreneurial process and the history of innovation in the United States and around the world."
                   }
               , "connect" : 
-                  {"url"  : ""
+                  {"url"  : "http://www.utexas.edu/ugs/bdp"
                   , "fb"      : ""
                   , "twitter" : ""
-                  , "email"   : ""
+                  , "email"   : "ugsdean@utexas.edu"
                   , "director": ""
+                  }
+              , "category": "univ"
+              }
+            , { "name" : "NAE Grand Challenges Scholars Program"
+              , "id"   : "gcsp"
+              , "content" : 
+                  { "text"  : "The National Academy of Engineering (NAE) set forth 14 Grand Challenges to address the world's most pressing societal issues that can be solved with innovative engineering. Issues such as access to clean drinking water, restoring & improving urban infrastructure, and making solar energy economical illustrate the magnitude and complexity of these Grand Challenges. Some of the leading universities across the nation are starting their own GCSP to fit their needs. The Longhorn GCSP is designed to be complementary, not additive, to the academic journey that students are already taking, whether you are a first or fifth year."
+                  }
+              , "connect" : 
+                  { "url"  : "http://gcsp.engr.utexas.edu/"
+                  , "fb"      : "pages/Longhorn-Grand-Challenges-Scholars-Program/114822535280426"
+                  , "twitter" : "GCSPK12"
+                  , "email"   : ""
+                  , "director": "Dr. Christina White"
                   }
               , "category": "univ"
               }

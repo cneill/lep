@@ -70,7 +70,7 @@ Some rights reserved
 <script type="text/javascript" src="js/lea.data.js"></script>
 <script type="text/javascript" src="js/lea.grid.js"></script>
 <script type="text/javascript">
-
+// Google analytics
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-43343703-1']);
   _gaq.push(['_trackPageview']);
